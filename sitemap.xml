@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bandaobook.top/be787c61.html</loc>
+    <loc>https://www.bandaobook.top/3cea937e.html</loc>
     
     <lastmod>2022-04-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.bandaobook.top/about/index.html</loc>
+    <loc>https://www.bandaobook.top/191c488f.html</loc>
     
     <lastmod>2022-04-20</lastmod>
     
@@ -29,9 +29,18 @@
   </url>
   
   <url>
-    <loc>https://www.bandaobook.top/3cea937e.html</loc>
+    <loc>https://www.bandaobook.top/be787c61.html</loc>
     
-    <lastmod>2022-04-18</lastmod>
+    <lastmod>2022-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bandaobook.top/about/index.html</loc>
+    
+    <lastmod>2022-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
